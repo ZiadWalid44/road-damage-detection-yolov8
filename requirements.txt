@@ -1,7 +1,5 @@
-flask
-gunicorn
+streamlit
 ultralytics
 opencv-python-headless
 pillow
 numpy
-temp_alert.mp3
